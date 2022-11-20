@@ -7,10 +7,14 @@ environment:
 
 dependencies: 
   cupertino_icons: ^1.0.2
+  #state management
   get: 4.6.5
   flutter: 
     sdk: flutter
+    
   intl: ^0.17.0
+  
+  #network
   dio: ^4.0.6
   socket_io_client: ^2.0.0-beta.4-nullsafety.0
 
